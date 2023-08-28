@@ -71,7 +71,9 @@ social:
     profileUrl:
 
 analytics:
-  google: UA-123456-1
+  google: 
+  
+remote_theme: allejo/jekyll-docs-theme@v1.0.0
 
 # Build settings
 markdown: kramdown
